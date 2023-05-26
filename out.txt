@@ -1,0 +1,11 @@
+Jeux test client.
+Commands are:
+	help
+	login <username>
+	users
+	invite <username> <role>
+	revoke <id>
+	accept <id>
+	decline id>
+	move <id> <move>
+	resign <id>

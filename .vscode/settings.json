@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pthread.h": "c",
+        "sstream": "c",
+        "protocol.h": "c",
+        "jeux_globals.h": "c",
+        "client_registry.h": "c",
+        "client.h": "c"
+    }
+}
